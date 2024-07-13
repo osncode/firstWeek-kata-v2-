@@ -1,0 +1,42 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 15px;
+    line-height: 1.5;
+}
+
+img{
+    display: block;
+}
+
+.container{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.footer{
+    text-align: center;
+    padding: 3rem 0;
+}
+
+/* utility */
+.d-f{
+    display: flex;
+}
+
+.fl{
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.ml-20{
+    margin-left: 20px;
+}
+
+.mb-24{
+    margin-bottom: 24px;
+}
+
+
