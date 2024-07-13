@@ -7,8 +7,8 @@
 **List of all available css abbreviations**
 * `.d-f`:["display: flex"]
 * `.fl`:["font-size: 20px", "line-height: 1.2"]
-* `.ml-20`:[margin-left: 20px]
-* `.mb-24`:[margin-bottom: 24px]
+* `.ml-20`:["margin-left: 20px"]
+* `.mb-24`:["margin-bottom: 24px"]
 
 *-pixel perfect kata(-v1)*  
 repo : https://github.com/osncode/firstWeek-kata  
